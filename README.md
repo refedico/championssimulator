@@ -1,4 +1,4 @@
-# cChampions League 2024 Group Stage Simulation
+# Champions League 2024 Group Stage Simulation
 
 This repository contains a Python script that simulates the group stage of the 2024 Champions League. The competition format involves 36 teams, each playing 8 matches against different opponents.
 
