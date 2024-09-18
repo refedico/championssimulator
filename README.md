@@ -14,12 +14,11 @@ Feel free to modify the code to extract additional insights or explore different
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/champions-league-2024-simulation.git
+   git clone https://github.com/refedico/championssimulator.git
    cd champions-league-2024-simulation
 2. Run the simulation script:
    ```bash
-   git clone https://github.com/your-username/champions-league-2024-simulation.git
-   cd champions-league-2024-simulation
+   python simulate_champions_league.py
 
 ## Example Output
 
