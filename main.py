@@ -3,9 +3,48 @@ import random
 from collections import defaultdict
 
 # Load the CSV file (replace 'file_name.csv' with your file's path)
-file_path = '/champions-league-2024-UTC.csv'
+file_path = 'D:\Desktop\Champions_Simulation\champions-league-2024-UTC.csv'
 
 df = pd.read_csv(file_path)
+
+team_strength = {
+    'Real Madrid': 10,
+    'Man City': 10,
+    'Bayern München': 10,
+    'Arsenal': 9,
+    'Liverpool': 9,
+    'Barcelona': 9,
+    'Paris': 9,
+    'Inter': 9,
+    'Atleti': 8,
+    'B. Dortmund': 8,
+    'Benfica': 8,
+    'Milan': 8,
+    'Juventus': 7,
+    'Leipzig': 7,
+    'Sporting CP': 7,
+    'Monaco': 7,
+    'Salzburg': 7,
+    'Shakhtar': 7,
+    'Leverkusen': 7,
+    'Club Brugge': 6,
+    'Celtic': 6,
+    'S. Bratislava': 6,
+    'Sparta Praha': 6,
+    'Lille': 6,
+    'Brest': 6,
+    'Stuttgart': 6,
+    'PSV': 6,
+    'Young Boys': 5,
+    'Girona': 5,
+    'Bologna': 5,
+    'Crvena Zvezda': 5,
+    'Feyenoord': 5,
+    'Aston Villa': 5,
+    'GNK Dinamo': 5,
+    'Sturm Graz': 4
+}
+
 
 # Extract the matches
 matches = df[['Home Team', 'Away Team', 'Result']]
@@ -14,14 +53,19 @@ matches = df[['Home Team', 'Away Team', 'Result']]
 matches_to_simulate = matches[matches['Result'].isnull()]
 points_for_entering_top8_avg = 0
 
-for i in range(100):
-    def simulate_result():
-        home_goals = random.randint(0, 4)  # Home team goals (between 0 and 4)
-        away_goals = random.randint(0, 4)  # Away team goals (between 0 and 4)
+for i in range(10000):
+    def simulate_result(home_team, away_team):
+        home_strength = team_strength.get(home_team, 5)  # Default strength if not found is 5
+        away_strength = team_strength.get(away_team, 5)
+
+        # The stronger team is more likely to score more goals
+        home_goals = max(0, int(random.gauss(home_strength / 2, 1)))
+        away_goals = max(0, int(random.gauss(away_strength / 2, 1)))
+        
         return f"{home_goals} - {away_goals}"
 
     # Apply the function to generate random results and combine
-    matches_to_simulate['Result'] = matches_to_simulate.apply(lambda row: simulate_result(), axis=1)
+    matches_to_simulate['Result'] = matches_to_simulate.apply(lambda row: simulate_result(row['Home Team'], row['Away Team']), axis=1)
     complete_matches = pd.concat([matches[matches['Result'].notnull()], matches_to_simulate])
 
     # Empty standings for each team
