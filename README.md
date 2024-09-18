@@ -7,7 +7,7 @@ Key features:
     - Each team is assigned a strength coefficient based on their real-world performance, which influences the outcome of simulated matches.
     - The simulation generates random results for each match, taking into account the relative strength of the teams.
     - The final standings are calculated based on points, goal difference, and other statistics, just like in the real Champions League.
-    - After 10,000 simulations, the average number of points required to finish in the top 8 is 17 points.
+    - After 10000 simulations, the average number of points required to finish in the top 8 is 16.21 points.
 
 Feel free to modify the code to extract additional insights or explore different scenarios. This project offers a fun way to simulate the tournament and analyze potential outcomes!
 
