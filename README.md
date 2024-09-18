@@ -15,10 +15,10 @@ Feel free to modify the code to extract additional insights or explore different
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/refedico/championssimulator.git
-   cd champions-league-2024-simulation
+   cd championssimulator
 2. Run the simulation script:
    ```bash
-   python simulate_champions_league.py
+   python main.py
 
 ## Example Output
 
