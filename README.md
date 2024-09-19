@@ -24,7 +24,7 @@ Feel free to modify the code to extract additional insights or explore different
 
 After running the simulation, you might see output like the following:
 
-```yaml
+```python
 
    Final Standings:
    1. Real Madrid: 24 points, 8 games, 8 won, 0 drawn, 0 lost, 37 GF, 18 GA, 19 GD
@@ -33,6 +33,8 @@ After running the simulation, you might see output like the following:
    4. Man City: 17 points, 8 games, 5 won, 2 drawn, 1 lost, 14 GF, 9 GA, 5 GD
    ...
    8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD
+## rr
+
 
 ## Some Interesting Results
 | Colonna 1 | Colonna 2 | Colonna 3 |
