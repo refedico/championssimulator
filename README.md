@@ -22,21 +22,18 @@ Feel free to modify the code to extract additional insights or explore different
 
 ## Example Output
 After running the simulation, you might see output like the following:
-'''bash
-   Final Standings:
-   1. Real Madrid: 24 points, 8 games, 8 won, 0 drawn, 0 lost, 37 GF, 18 GA, 19 GD
-   2. Arsenal: 24 points, 8 games, 8 won, 0 drawn, 0 lost, 30 GF, 14 GA, 16 GD
-   3. Liverpool: 19 points, 8 games, 6 won, 1 drawn, 1 lost, 24 GF, 15 GA, 9 GD
-   4. Man City: 17 points, 8 games, 5 won, 2 drawn, 1 lost, 14 GF, 9 GA, 5 GD
-   ...
-   8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD
+            ```yalm
+            Final Standings:
+            1. Real Madrid: 24 points, 8 games, 8 won, 0 drawn, 0 lost, 37 GF, 18 GA, 19 GD
+            2. Arsenal: 24 points, 8 games, 8 won, 0 drawn, 0 lost, 30 GF, 14 GA, 16 GD
+            3. Liverpool: 19 points, 8 games, 6 won, 1 drawn, 1 lost, 24 GF, 15 GA, 9 GD
+            4. Man City: 17 points, 8 games, 5 won, 2 drawn, 1 lost, 14 GF, 9 GA, 5 GD
+            ...
+            8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD
 
 ## Some Interesting Results
 | Top | Average | Best | Worst
 |----------|-----------|-----------|-----------|
-| Riga 1   | Dato 1.1  | Dato 1.2  |Dato 1.2  |
-| Riga 2   | Dato 2.1  | Dato 2.2  |Dato 1.2  |
-| Riga 3   | Dato 3.1  | Dato 3.2  |Dato 1.2  |
-| Riga 4   | Dato 4.1  | Dato 4.2  |Dato 1.2  |
-| Riga 5   | Dato 5.1  | Dato 5.2  |Dato 1.2  |
+| Top8   | 17  | 15  |19  |
+| Top24   | 8  | 7  |10  |
 
