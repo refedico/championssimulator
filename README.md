@@ -22,8 +22,10 @@ Feel free to modify the code to extract additional insights or explore different
 
 ## Example Output
 
-After running the simulation, you might see output like the following: ```yalm
-   ph
+After running the simulation, you might see output like the following: 
+```yalm
+phff3443ff34
+```
 
 ## Some Interesting Results
 | Top | Average | Best | Worst
