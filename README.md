@@ -33,3 +33,13 @@ Final Standings:
 4. Man City: 17 points, 8 games, 5 won, 2 drawn, 1 lost, 14 GF, 9 GA, 5 GD
 ...
 8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD
+
+## Some Interesting Results
+| Colonna 1 | Colonna 2 | Colonna 3 |
+|----------|-----------|-----------|
+| Riga 1   | Dato 1.1  | Dato 1.2  |
+| Riga 2   | Dato 2.1  | Dato 2.2  |
+| Riga 3   | Dato 3.1  | Dato 3.2  |
+| Riga 4   | Dato 4.1  | Dato 4.2  |
+| Riga 5   | Dato 5.1  | Dato 5.2  |
+
