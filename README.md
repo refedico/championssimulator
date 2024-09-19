@@ -20,19 +20,15 @@ Feel free to modify the code to extract additional insights or explore different
    ```bash
    python main.py
 
-## Example Output
-After running the simulation, you might see output like the following:
-
-   ```python
-   # Questo è un esempio di codice Python
-   def somma(a, b):
-       return a + b
-   
-   print(somma(5, 3))
-
 ## Some Interesting Results
 | Top | Average | Best | Worst
 |----------|-----------|-----------|-----------|
 | Top8   | 17  | 15  |19  |
 | Top24   | 8  | 7  |10  |
+
+
+## Example Output
+After running the simulation, you might see output like the following:
+   ```yalm
+   ph
 
