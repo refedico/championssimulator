@@ -32,7 +32,7 @@ Final Standings:
 3. Liverpool: 19 points, 8 games, 6 won, 1 drawn, 1 lost, 24 GF, 15 GA, 9 GD
 4. Man City: 17 points, 8 games, 5 won, 2 drawn, 1 lost, 14 GF, 9 GA, 5 GD
 ...
-8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD
+8. Monaco: 15 points, 8 games, 4 won, 3 drawn, 1 lost, 17 GF, 16 GA, 1 GD ```
 
 ## Some Interesting Results
 | Colonna 1 | Colonna 2 | Colonna 3 |
