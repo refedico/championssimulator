@@ -41,6 +41,7 @@ Final Standings:
 ```
 
 ## Some Interesting Results
+After running simulations with 1000 repetitions, we obtained the following results: the best-case scenario refers to the simulation where the fewest points were required to reach the top 8 and top 24, respectively; the worst-case scenario refers to the simulation where the highest number of points was required in that case.
 | Top | Average | Best | Worst
 |----------|-----------|-----------|-----------|
 | Top8   | 17  | 15  |19  |
