@@ -33,30 +33,7 @@ Final Standings:
 6. Inter: 16 points, 8 played, 5 won, 1 drawn, 2 lost, 34 GS, 24 GC, 10 GD
 7. Shakhtar: 16 points, 8 played, 5 won, 1 drawn, 2 lost, 28 GS, 22 GC, 6 GD
 8. Atleti: 16 points, 8 played, 5 won, 1 drawn, 2 lost, 28 GS, 23 GC, 5 GD
-9. Paris: 16 points, 8 played, 5 won, 1 drawn, 2 lost, 31 GS, 28 GC, 3 GD
-10. Sturm Graz: 15 points, 8 played, 5 won, 0 drawn, 3 lost, 18 GS, 16 GC, 2 GD
-11. Club Brugge: 14 points, 8 played, 4 won, 2 drawn, 2 lost, 27 GS, 22 GC, 5 GD
-12. Monaco: 14 points, 8 played, 4 won, 2 drawn, 2 lost, 27 GS, 22 GC, 5 GD
-13. Milan: 14 points, 8 played, 4 won, 2 drawn, 2 lost, 26 GS, 22 GC, 4 GD
-14. B. Dortmund: 13 points, 8 played, 3 won, 4 drawn, 1 lost, 29 GS, 25 GC, 4 GD
-15. Leverkusen: 13 points, 8 played, 4 won, 1 drawn, 3 lost, 26 GS, 22 GC, 4 GD
-16. Celtic: 13 points, 8 played, 4 won, 1 drawn, 3 lost, 22 GS, 19 GC, 3 GD
-17. Benfica: 13 points, 8 played, 4 won, 1 drawn, 3 lost, 29 GS, 27 GC, 2 GD
-18. Juventus: 13 points, 8 played, 4 won, 1 drawn, 3 lost, 29 GS, 29 GC, 0 GD
-19. PSV: 13 points, 8 played, 4 won, 1 drawn, 3 lost, 21 GS, 23 GC, -2 GD
-20. Aston Villa: 11 points, 8 played, 3 won, 2 drawn, 3 lost, 22 GS, 22 GC, 0 GD
-21. Salzburg: 10 points, 8 played, 3 won, 1 drawn, 4 lost, 22 GS, 22 GC, 0 GD
-22. Sporting CP: 10 points, 8 played, 3 won, 1 drawn, 4 lost, 21 GS, 21 GC, 0 GD
-23. Barcelona: 9 points, 8 played, 3 won, 0 drawn, 5 lost, 28 GS, 29 GC, -1 GD
-24. Feyenoord: 8 points, 8 played, 2 won, 2 drawn, 4 lost, 16 GS, 22 GC, -6 GD
-25. GNK Dinamo: 8 points, 8 played, 2 won, 2 drawn, 4 lost, 14 GS, 28 GC, -14 GD
-26. Leipzig: 7 points, 8 played, 1 won, 4 drawn, 3 lost, 25 GS, 29 GC, -4 GD
-27. Young Boys: 7 points, 8 played, 2 won, 1 drawn, 5 lost, 16 GS, 22 GC, -6 GD
-28. Lille: 7 points, 8 played, 2 won, 1 drawn, 5 lost, 16 GS, 23 GC, -7 GD
-29. Atalanta: 7 points, 8 played, 2 won, 1 drawn, 5 lost, 16 GS, 25 GC, -9 GD
-30. Stuttgart: 6 points, 8 played, 2 won, 0 drawn, 6 lost, 20 GS, 23 GC, -3 GD
-31. S. Bratislava: 5 points, 8 played, 1 won, 2 drawn, 5 lost, 16 GS, 23 GC, -7 GD
-32. Sparta Praha: 5 points, 8 played, 1 won, 2 drawn, 5 lost, 19 GS, 28 GC, -9 GD
+...
 33. Bologna: 5 points, 8 played, 1 won, 2 drawn, 5 lost, 14 GS, 23 GC, -9 GD
 34. Crvena Zvezda: 5 points, 8 played, 1 won, 2 drawn, 5 lost, 16 GS, 29 GC, -13 GD
 35. Girona: 4 points, 8 played, 1 won, 1 drawn, 6 lost, 16 GS, 27 GC, -11 GD
