@@ -20,15 +20,15 @@ Feel free to modify the code to extract additional insights or explore different
    ```bash
    python main.py
 
+## Example Output
+
+After running the simulation, you might see output like the following: ```yalm
+   ph
+
 ## Some Interesting Results
 | Top | Average | Best | Worst
 |----------|-----------|-----------|-----------|
 | Top8   | 17  | 15  |19  |
 | Top24   | 8  | 7  |10  |
 
-
-## Example Output
-After running the simulation, you might see output like the following:
-   ```yalm
-   ph
 
