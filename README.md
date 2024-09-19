@@ -47,4 +47,13 @@ After running simulations with 1000 repetitions, we obtained the following resul
 | Top8   | 16.213  | 14  |19  |
 | Top24   | 8.434  | 6  | 11  |
 
+Now, let's look at a table for the same thing, but this time with goal difference instead of points:
+
+| Top | Average | Best | Worst
+|----------|-----------|-----------|-----------|
+| Top8   | 7.163  | -1  |19  |
+| Top24   | -4.065 | -17  | 2  |
+
+Obviously, if the simulation is run on 10,000 or 100,000 cases, the results will be more accurate. However, the implementation does not take advantage of parallelization.
+
 
